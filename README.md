@@ -1,0 +1,2 @@
+# ProPublica Sample Data Tables
+The live site can be found [here](https://my-dash-app-propublica.herokuapp.com). This project was created to test out different methods for highlighting relevant data trends for articles published at ProPublica. I utilized Heroku, Python, Pandas, Dash, HTML, and Plotly Express to display various tables and charts. I challenged myself to work with tools/frameworks that I had either never used before or had only basic familiarity with (Pandaas, Express, Dash, and Heroku) for my own curiosity.   
